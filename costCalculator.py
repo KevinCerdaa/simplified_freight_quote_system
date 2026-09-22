@@ -12,3 +12,4 @@ def get_fuel(kilometers, weight):
 def getFuelCost (kilometers, weight):
     return get_fuel(kilometers, weight) * DIESEL_PRICE
 
+# Comentario
